@@ -5,6 +5,8 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+docs/
+alternatives/
 .pytest_cache/
 .ruff_cache/
 frontend/node_modules/
